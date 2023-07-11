@@ -1,0 +1,5 @@
+- SideBar
+  - [Home](/)
+    - [A Folder](./a_folder/README.md)
+  - [A File](./a_file.md)
+  - [A File Too](./a_file_too.md)
