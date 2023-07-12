@@ -1,5 +1,6 @@
 - SideBar
   - [Home](/)
+  - [Deploy](./deploy.md)
   - [A Folder](./a_folder/)
     - [File](./a_folder/file.md)
     - [File Too](./a_folder/file_too.md)
