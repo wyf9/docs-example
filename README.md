@@ -1,5 +1,7 @@
 # docs-example
 
+**请在 GitHub Pages 上打开以得到最佳效果!**
+
 - 更新日期: {docsify-updated}
 
 Docsify 文档站点示例
@@ -10,3 +12,11 @@ Docsify 文档站点示例
 
 - [x] 这是一个 Markdown 文档
 - [ ] 这是一个 HTML 文档
+
+```py
+# 这是一个代码片段
+
+print("Test")
+exit(114514)
+
+```
