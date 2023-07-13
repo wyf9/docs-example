@@ -17,7 +17,7 @@ Docsify 文档站点示例
 - [x] 这是一个 Markdown 文档
 - [ ] 这是一个 HTML 文档
 
-```py
+```python
 # 这是一个代码片段
 
 print("Test")
