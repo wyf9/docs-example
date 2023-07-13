@@ -6,9 +6,11 @@
 
 Docsify 文档站点示例
 
+你可以 Fork 后修改本仓库的内容, 并推送到 GitHub Pages 即可拥有自己的文档网站.
+
 **已知问题**:
-- [ ] 没有 Favicon 图标
-- [ ] 代码片段没有颜色
+- 没有 Favicon 图标
+- 代码片段没有颜色
 
 !> 官方文档存档: <https://docsify.js.org/#/>
 
